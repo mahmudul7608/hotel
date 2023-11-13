@@ -3,9 +3,8 @@
 
 This is Holel /salad template.
 
-# Live view:- 
+# Live view:- salad-section-hotel-sector.netlify.app
 
 <h1>I use this project</h1>
 <li>HTML</li>
 <li>CSS</li>
-<li>JS</li>
